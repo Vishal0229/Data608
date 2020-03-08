@@ -1,0 +1,13 @@
+name: module3
+title: module3
+username:
+account: vishal0229
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1921202
+bundleId: 2862520
+url: https://vishal0229.shinyapps.io/module3/
+when: 1583709451.38153
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Assignment 3.pdf|DATA_608_ASSIGNMENT3.R|data/cleaned-cdc-mortality-1999-2010-2.csv|Sample Apps/ggplot-reactive.R|Sample Apps/ggplot-simple.R|Sample Apps/ggplot-simplest.R|Sample Apps/plotly-simple.R
