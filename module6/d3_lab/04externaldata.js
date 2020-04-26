@@ -1,4 +1,4 @@
-d3.csv('https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module6/d3_lab/ue_industry.csv', data => {
+d3.csv("https://raw.githubusercontent.com/Vishal0229/Data608/master/module6/d3_lab/ue_industry.csv", data => {
 
     const xScale = d3.scaleLinear()
         .domain(d3.extent(data,d => +d.index))
